@@ -2,5 +2,9 @@
   padding: 1rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 14px;
-  background-color: white;
+  background-image: url("https://github.com/RobNikola911/React-refresh/blob/main/03-food-order-project/src/assets/wood-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+/* background-color: rgb(255, 200, 137); */
